@@ -1,1 +1,4 @@
-I am just studying, If you can help me with somenthing I would appreciate it, I am Brazilian 
+## Olá mundo! 
+- Hoje estudando HTML e CSS
+- Contate-me no email: vbezuskaa@gmail.com  
+- Pronome: ele/dele
